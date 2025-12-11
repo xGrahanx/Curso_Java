@@ -1,0 +1,20 @@
+Tener en cuenta que en java se trabaja con clases principalmente debido a que es un lenguaje orientado a objetos
+
+tambien a tener en cuenta que se usa usualmente la nomenclatura CamelCase
+
+Inicialmente, todo lo vámos intentar encapsular dentro de una clase
+
+La línea de código public static void main(String[] args) es el código que usaremos como punto de entrada casi siempre en java
+si no creamos una clase global (que debe llamarse igual que el fichero que creamos) y si dentro de esta clase no hay una operacion public static void main(String[] args) no se va a ejecutar el programa
+Public significa que tiene visibilidad en todo el proyecto.
+Class significa que es un objeto del tipo clase.
+Void significa que esta clase no va a retornar nada.
+Main es el nombre de la operacion, es decir el nombre que debe tener el punto de entrada.
+(String[] args) son los argumentos que le estamos dando. En este caso es un array [] de strings (una cadena de texto) y que tiene el nombre args.
+
+Un fichero es todo aquello que creemos con fin de código. (creo)
+
+System.out.println() es lo que usamos para poder imprimir algo en pantalla
+usamos el println para tener un salto de línea
+dentro del paréntesis debemos colocar el argumento que queremos que se muestre. Se pueden usar comillas dóbles"" o simples''
+y como no puede faltar, él; al final de cada línea para ejecutarlo
