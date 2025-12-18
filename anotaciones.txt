@@ -18,3 +18,12 @@ System.out.println() es lo que usamos para poder imprimir algo en pantalla
 usamos el println para tener un salto de línea
 dentro del paréntesis debemos colocar el argumento que queremos que se muestre. Se pueden usar comillas dóbles"" o simples''
 y como no puede faltar, él; al final de cada línea para ejecutarlo
+
+hay dos tipos de comentarios:
+/*
+esto vendria siendo un comentario largo, todo lo que se encuentre de estos slash se trata como comentario
+aqui seguiria el comentario
+*/
+
+//esto seria un comentario corto, solo abarca una sola linea
+
